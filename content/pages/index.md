@@ -47,7 +47,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_7713.JPG
+      url: /images/formal profile.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
